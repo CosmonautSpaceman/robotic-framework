@@ -1,0 +1,9 @@
+The following details summarize the test:
+Simulation time: 30.000000 
+Simulation samples: 3000.000000 
+Cartesian Velocity: 0.000000 
+Cartesian Acceleration: 0.000000 
+Force Constant Disturbance: 0 
+Force Impulse Disturbance: 1 
+Spring constant: eye(3).* 3 
+Damping constant: eye(3).* 1 
